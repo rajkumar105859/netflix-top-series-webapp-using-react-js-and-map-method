@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/rajkumar105859/netflix-top-series-webapp-using-react-js-and-map-method/blob/master/project_ss/Screenshot%20(409).png?raw=true)
+
+![alt text](https://github.com/rajkumar105859/netflix-top-series-webapp-using-react-js-and-map-method/blob/master/project_ss/Screenshot%20(408).png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
